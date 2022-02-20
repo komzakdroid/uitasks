@@ -1,6 +1,6 @@
-# uitasks
+# Practice with Flutter creating UI
 
-A new Flutter project.
+Practice with Flutter UI components
 
 ## Getting Started
 
